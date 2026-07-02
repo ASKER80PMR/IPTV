@@ -11,7 +11,7 @@ https://cdn.ntv.ru/ntv0/playlist.m3u8
 http://194.158.222.36:6102
 #EXTINF:-1 tvg-id="5kanal-ru" tvg-logo="https://iptvx.one/picons/5kanal-ru.png" group-title="Общественные" ,Пятый канал
 #EXTVLCOPT:http-user-agent="WINK/1.80.1 (AndroidTV/9) HlsWinkPlayer"
-https://s87.glaz.tv:8082/liveg/pyatyi.stream/chunks.m3u8?nimblesessionid=20765712&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjYgOToyMTozNiBBTSZoYXNoX3ZhbHVlPUVvbzkySTR1TDg4WnBPcHpsZmpDMnc9PSZ2YWxpZG1pbnV0ZXM9MjAw
+https://s.tivix.co/amZVmv1DNLqKa94g-VY0tg/524/1783022594/index.m3u8
 #EXTINF:-1 tvg-id="tvcentr" tvg-logo="https://iptvx.one/picons/tvcentr.png" group-title="Общественные" ,ТВ Центр
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="rentv" tvg-logo="https://iptvx.one/picons/18.png" group-title="Общественные" ,Рен ТВ
@@ -19,7 +19,7 @@ http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 http://185.46.16.239:8000/REN_TV
 #EXTINF:-1 tvg-id="tv3-ru" tvg-logo="https://iptvx.one/picons/tv3-ru.png" group-title="Общественные",ТВ3
 #EXTVLCOPT:http-user-agent="WINK/1.80.1 (AndroidTV/9) HlsWinkPlayer"
-https://vsd96.okcdn.ru/hls/7983656733302.m3u8/sig/K8reA2ywQgg/expires/1778395328700/srcIp/77.235.105.144/urls/45.136.22.39/clientType/0/srcAg/CHROME/mid/9344408428150/7983656733302_high/index.m3u8
+https://vsd216.okcdn.ru/hls/7983656733302.m3u8/sig/gauNSeY2WZM/expires/1783092322633/srcIp/77.235.105.144/urls/95.163.35.96/clientType/0/srcAg/CHROME/mid/9344408428150/7983656733302_high/index.m3u8
 #EXTINF:-1 tvg-id="zvezda" tvg-logo="https://iptvx.one/picons/zvezda.png" group-title="Общественные" ,Звезда HD
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="mir" tvg-logo="https://iptvx.one/picons/mir.png" group-title="Общественные" ,Мир
@@ -142,15 +142,14 @@ http://45.145.32.13:20440/match_football3/index.m3u8?token=test
 http://45.145.32.13:20440/match_futbol_3_hd/index.m3u8?token=test
 #EXTINF:-1 group-title="SPORT 🏆",Мир баскетбола
 http://45.145.32.13:20440/mir_basketbola/index.m3u8?token=test
-
 #EXTINF:-1 tvg-id="2na2" tvg-logo="https://iptvx.one/picons/2na2.png" group-title="Развлекательные" ,2x2
-http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
+https://vsd282.okcdn.ru/hls/5989330520712.m3u8/sig/Dgr82YpTOPU/expires/1783092505621/srcIp/77.235.105.144/urls/185.180.203.107/clientType/0/srcAg/CHROME/mid/7022731468424/5989330520712_high/index.m3u8
 #EXTINF:-1 tvg-id="rutube-tv" tvg-logo="https://iptvx.one/picons/rutube-tv.png" group-title="Развлекательные" ,RUTUBE TV
 https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=U_og5iHG6xVp0V3KXYMB0g&e=2070623479&scheme=https
 #EXTINF:-1 tvg-id="belarus2" tvg-logo="https://iptvx.one/picons/belarus2hd.png" group-title="Развлекательные" ,Беларусь 2 HD
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus2.smil/chunklist_b5160000_sleng.m3u8
 #EXTINF:-1 tvg-id="domashny" tvg-logo="https://iptvx.one/picons/domashny.png" group-title="Развлекательные" ,Домашний
-https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
+https://s.tivix.co/0kZQ8iKVA4Ntu_MnsmQ7zQ/561/1783023694/index.m3u8
 #EXTINF:-1 tvg-id="kaleydoskop-tv" tvg-logo="https://iptvx.one/picons/kaleydoskop.png" group-title="Развлекательные",Калейдоскоп ТВ
 http://serv25.vintera.tv:8081/kaleidoscop/kaleidoscop_sd/playlist.m3u8
 #EXTINF:-1 tvg-id="ntv-pravo" tvg-logo="https://iptvx.one/picons/ntv-pravo.png" group-title="Развлекательные",НТВ Право
