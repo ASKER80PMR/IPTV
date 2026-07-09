@@ -51,6 +51,20 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/720p.m3u8
 https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/TASS_Logo_(Cyrillic)_2017.svg/1200px-TASS_Logo_(Cyrillic)_2017.svg.png" group-title="Информационные" ,ТАСС
 https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Moldova 1"  group-title="Молдова" , Moldova1
+https://v.trm.md/static/streaming-playlists/hls/6b3b523a-6a02-444c-8129-8354bbeffbc9/0.m3u8
+#EXTINF:-1 tvg-id="Moldova 2"  group-title="Молдова" , Moldova 2
+https://v.trm.md/static/streaming-playlists/hls/937e4e0e-7174-4fb2-a299-480e68b49ecb/0.m3u8
+#EXTINF:-1 tvg-id="TV8"  group-title="Молдова" , TV8
+https://live5.cdn.tv8.md/TV7/tracks-v1a1/mono.ts.m3u8?token=97d702b43224fc2f3fc191c388f8733dc4e75fb5
+#EXTINF:-1 tvg-id="Noroc TV"  group-title="Молдова" , Noroc TV
+https://media.noroc.tv/noroc/bitrate_1080p.m3u8
+#EXTINF:-1 tvg-id="Busuioc  TV"  group-title="Молдова" , Busuioc  TV
+https://tt.nfthost.net/static/streaming-playlists/hls/bb907ca9-5cb5-49dd-b276-d77721a9bc6d/2.m3u8
+#EXTINF:-1 tvg-id="Jurnal  TV"  group-title="Молдова" , Jurnal TV
+https://live.cdn.jurnaltv.md/JurnalTV_HD/tracks-v1a1/mono.ts.m3u8?token=a9ea2813fc6ba9b098057b669bf2f746e8e5ad96
+#EXTINF:-1 tvg-id="Gagauzia  TV"  group-title="Молдова" , Gagauzia TV
+https://live6.cdn.grt.md/GRT_H264/tracks-v1a1/mono.ts.m3u8?token=b1926e7cd38dfb0389c196649efe83ddb94f4653
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/blackbirdstudiorus/LoganetXIPTV/main/IMG_20230719_152756.png" group-title="Спортивные" ,Astrakhan.RU SPORT
 http://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 #EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://iptvx.one/picons/eurosport2.png" group-title="Спортивные" ,Eurosport 2
