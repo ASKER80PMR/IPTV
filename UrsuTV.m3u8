@@ -1,6 +1,7 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
 #PLAYLIST:IPTVru
-
+#EXTINF:-1 tvg-id="tsv"  group-title="Общественные" ,ТСВ
+https://tsv.md/stream/hls/tsv-online/0_1/index.m3u8?tkn=2238240648
 #EXTINF:-1 tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="Общественные" ,Первый канал HD
 http://dmi3y-tv.online/hls/T2/CH_1TVHD.m3u8
 #EXTINF:-1 tvg-id="rossia1" tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="Общественные" ,Россия 1 HD
