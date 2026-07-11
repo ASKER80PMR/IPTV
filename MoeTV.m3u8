@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="tsv"  group-title="Общественные" ,ТСВ
 https://tsv.md/stream/hls/tsv-online/0_1/index.m3u8?tkn=2238240648
 #EXTINF:-1 tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="Общественные" ,Первый канал HD
-http://dmi3y-tv.online/hls/T2/CH_1TVHD.m3u8
+https://www.1tv.ru/live
 #EXTINF:-1 tvg-id="rossia1" tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="Общественные" ,Россия 1 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-id="ntv" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="Общественные" ,НТВ HD
@@ -14,7 +14,7 @@ http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTVLCOPT:http-user-agent="WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer"
 http://185.46.16.239:8000/REN_TV
 #EXTINF:-1 tvg-id="sts" tvg-logo="https://iptvx.one/picons/sts.png" group-title="Общественные" ,СТС
-https://s.viks.tv/aqV0atD1LkCiv05CvS_V5g/591/1783701276/index.m3u8
+https://s.viks.tv/nO3NxL5lbZEV8e_wwUt3Hw/591/1783761335/index.m3u8
 #EXTINF:-1 tvg-id="tnt" tvg-logo="https://iptvx.one/picons/tnt.png" group-title="Общественные" ,ТНТ HD
 https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=M9H6z-O74nqbdC30HqutIw&e=2070623480&scheme=https
 #EXTINF:-1 tvg-id="tnt4" tvg-logo="https://iptvx.one/picons/tnt4.png" group-title="Общественные" ,ТНТ4 HD
